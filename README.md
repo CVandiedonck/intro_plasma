@@ -31,4 +31,6 @@ Materials can be added anywhere to this repository, either at the top level or i
 
 When building the environment, the materials (and any other file) will be copied to the Docker image.
 
-In the present repository, there is an initiation notebook available: `Bienvenue-sur-Plasma.ipynb `.
+In the present repository, two initiation Jupyter notebooks are available:
+- in bash : `Bienvenue-sur-Plasma.ipynb `
+- in R:  `example_notebook_R.ipynb
