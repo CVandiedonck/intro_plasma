@@ -33,4 +33,4 @@ When building the environment, the materials (and any other file) will be copied
 
 In the present repository, two initiation Jupyter notebooks are available:
 - in bash : `Bienvenue-sur-Plasma.ipynb `
-- in R:  `example_notebook_R.ipynb
+- in R:  `example_notebook_R.ipynb`
