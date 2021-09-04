@@ -1,4 +1,4 @@
-name: L3MEG-GH-TP1-essai
+name: intro_plasma
 channels:
   - conda-forge
   - bioconda
